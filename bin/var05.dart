@@ -9,4 +9,8 @@ Print two of them.
 
 void main() {
   // write your code here
-}
+  int x=37;
+  int y=48;
+  print(x);
+  print(y);
+  }
